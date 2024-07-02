@@ -5,7 +5,11 @@
 
 [Download Binary](https://github.com/JeremyBankes/MazeSolver/releases/download/1.0.0/MazeSolver.zip) (MazeSolver.zip)
 
-This binary was built using MinGW64 for a Windows machine.
+This binary was built using MinGW64 for a Windows 10 machine.
+
+|⚠️| Note that Microsoft's changes to cmd.exe in Windows 11 appear to have create unintended behaviour with the visualization. |
+|-|-|
+
 
 ---
 
